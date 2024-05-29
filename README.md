@@ -1,4 +1,4 @@
-<b>maxie fox / @matsubusa<b>
+**maxie fox / @matsubusa**
 <br>
 he/him
 <br>
@@ -7,3 +7,5 @@ i've been programming and making music since i was 7 years old, creating visual 
 ♥ NO RIGHTS RESERVED ♥
 <br>
 ^unless otherwise specified^
+<br>
+<a href="https://xorgasm.neocities.org/magmatic">maxie's room</a>
